@@ -12,7 +12,7 @@
             justify-content: center;
             height: 100vh;
             width: 100vw;
-            font-family: Arial, sans-serif;
+            font-family: Times New Roman;
             background-color: pink; /* Background color set to pink */
             position: relative; /* Allow absolute positioning for buttons */
             margin: 0; /* Remove default margin */
@@ -21,11 +21,15 @@
             width: 30%; /* Adjust the size of the GIFs relative to the viewport */
             max-width: 300px; /* Maximum width for larger screens */
             height: auto;
+            align-items: center;
+            justify-content: center;
         }
         button {
             margin: 10px;
             padding: 10px 20px;
             font-size: 2vw; /* Font size relative to viewport width */
+            align-items: center;
+            justify-content: center;
             cursor: pointer;
             background-color: black; /* Button background color */
             color: white; /* Button text color */
@@ -55,7 +59,7 @@
         yesButton.addEventListener('click', function() {
             document.body.innerHTML = `
                 <img src="https://media1.tenor.com/m/xx3n8cnrnGYAAAAd/nyano-nyano-cat.gif" alt="Gif Image">
-                <h1><i>Thank you so much for understanding Baby. I love you with all my heart, body, and soul. I regret my actions and will never let it happen again. My sincere apologies. I love you wifey ko.</i></h1>
+                <h1><i>Thank you so much for understanding Baby. I love you with all my heart, body, and soul. I regret my actions and will never let it happen again. My sincere apologies, I hope you're doing well right now. I love you wifey ko.</i></h1>
             `;
         });
 
