@@ -1,4 +1,4 @@
-<!doctype html>
+oh giliw ko miss na miss na kita
 <html lang="en"> 
 <head> 
     <meta charset="UTF-8"> 
