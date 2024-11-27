@@ -13,13 +13,13 @@
             height: 100vh;
             width: 100vw;
             font-family: Times New Roman;
-            background-color: pink; /* Background color set to pink */
-            position: relative; /* Allow absolute positioning for buttons */
-            margin: 0; /* Remove default margin */
+            background-color: pink; 
+            position: relative; 
+            margin: 0; 
         }
         img {
-            width: 30%; /* Adjust the size of the GIFs relative to the viewport */
-            max-width: 300px; /* Maximum width for larger screens */
+            width: 30%; 
+            max-width: 300px;
             height: auto;
             align-items: center;
             justify-content: center;
@@ -27,24 +27,24 @@
         button {
             margin: 10px;
             padding: 10px 20px;
-            font-size: 2vw; /* Font size relative to viewport width */
+            font-size: 2vw;
             align-items: center;
             justify-content: center;
             cursor: pointer;
-            background-color: black; /* Button background color */
-            color: white; /* Button text color */
+            background-color: black;
+            color: white; 
             border: none;
             border-radius: 5px;
         }
         .no-button {
-            background-color: red; /* No button background color */
-            color: white; /* No button text color */
-            position: absolute; /* Position buttons absolutely */
+            background-color: red; 
+            color: white; 
+            position: absolute;
         }
         h1 {
-            font-style: italic; /* Set font style to italic */
-            text-align: center; /* Center text */
-            font-size: 3vw; /* Font size relative to viewport width */
+            font-style: italic; 
+            text-align: center; 
+            font-size: 3vw; 
         }
     </style> 
  </head> 
