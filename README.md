@@ -1,4 +1,4 @@
-<center>oh giliw ko miss na miss na kita</center>
+
 <html lang="en"> 
 <head> 
     <meta charset="UTF-8"> 
